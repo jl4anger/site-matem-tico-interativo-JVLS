@@ -21,3 +21,10 @@ button {
     font-size: 16px;
     cursor: pointer;
 }
+
+input { 
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+    width: 80%
+}
